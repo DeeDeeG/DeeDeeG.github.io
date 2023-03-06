@@ -12,6 +12,8 @@ on:
 jobs:
   cache-and-install:
     runs-on: ubuntu-latest
+    permissions:
+      pages: write
 
     steps:
       - name: Checkout
