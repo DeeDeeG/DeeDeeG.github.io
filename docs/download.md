@@ -14,6 +14,8 @@ Note: There are no automatic updates at this time, regardless of which type of d
 
 :::
 
+<a download="Pulsar-v1.102.0-Windows-Installer.exe" href="https://github.com/pulsar-edit/pulsar/releases/download/v1.100.0-beta/Windows.Pulsar.Setup.1.100.0-beta.exe" target="_blank">Installer</a>
+
 ## Rolling Release
 
 These releases are built on each push to our `master` branch and automatically
